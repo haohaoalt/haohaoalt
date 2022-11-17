@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 移动机器人；SLAM；
 - 💬 Ask me about wechat: haohaoalt;
 - 📫 How to reach me: haohaoalt@163.com;
--😄 I’m looking to collaborate on ...
+- 😄 I’m looking to collaborate on ...
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=haohaoalt&show_icons=true&theme=radical)
