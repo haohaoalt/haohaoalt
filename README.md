@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 苏州大学控制科学与工程研二在读；
 - 🌱 移动机器人；SLAM；
--- 💬 Ask me about wechat: haohaoalt
-- 📫 How to reach me: haohaoalt@163.com
+-- 💬 Ask me about wechat: haohaoalt;
+- 📫 How to reach me: haohaoalt@163.com;
 -😄 I’m looking to collaborate on ...
 
 
