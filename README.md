@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 苏州大学控制科学与工程研二在读；
+- 🔭 苏州大学控制科学与工程马上研三在读；
 - 🌱 移动机器人；SLAM；
 - 💬 Ask me about wechat: haohaoalt;
 - 📫 How to reach me: haohaoalt@163.com;
